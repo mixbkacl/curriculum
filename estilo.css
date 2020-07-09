@@ -1,0 +1,107 @@
+.bosy{
+    font-display: 'leto', sans-sarif;
+    margin: 0;
+
+}
+.tamaño{
+     
+}
+.fonfo{
+    background-color: rgb(248, 245, 245);
+    max-width: 2000px;
+    height:auto;
+}
+.titulo{
+    background-color: cornflowerblue;
+    
+  
+}
+.comodo{
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cuadro2{
+    width: 40%;
+    height: 50%;
+   
+}
+.lista0{
+    color: rgba(7, 1, 61, 0.644);
+    width: 25%;
+    height: 50%;
+  
+    list-style: none;
+    display: inline-block;
+}
+.lista1{
+   
+    color: rgba(7, 1, 61, 0.644);
+    width: 40%;
+    height: 50%;
+  
+    list-style: none;
+    display: inline-block;
+}
+.lista2{
+   color: rgb(0, 0, 0);
+   width: 40;
+   height: 50%;
+ 
+    list-style: none;
+    display: inline-block;
+}
+.caduimg{
+    
+    width: 20%;
+    height: 50%;
+}
+.imagen img{
+    width: 90%;
+    height: 50%;
+    border: 1px solid red;
+    background-color: blue;
+    
+}
+.metas{
+    justify-content: center;
+     list-style: none;
+    display: inline-block;
+}
+.his{
+    list-style: none;
+    display: inline-block;
+}
+.por1{
+color: blue;
+}
+.por2{
+    color: blue;
+}
+.por3{
+    color: blue;
+}
+.por4{
+    color: blue;
+}
+.footer{
+    
+    background-color: cornflowerblue;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+
+}
+.ko{
+    list-style: none;
+    display: inline-block;
+
+}
+.iconos{
+    width: 32px;
+    height: 32px;
+}
